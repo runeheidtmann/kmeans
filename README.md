@@ -1,6 +1,7 @@
 # kmeans
 Implementation of Forgy/Loyd Kmeans clustering algorithm using object oriented python
 #Example of output to console when running:
+
 ------- Run 1 ----------
 Centroid: [7, 7]
 Points: [[2, 3], [3, 4], [7, 7], [10, 1], [7, 8]]
