@@ -1,6 +1,7 @@
 # kmeans
 Implementation of Forgy/Loyd Kmeans clustering algorithm using object oriented python
-#Example of output to console when running:
+
+##Example of output to console when running:
 
 ------- Run 1 ----------
 
